@@ -1,0 +1,47 @@
+<html lang="en">
+  <head>
+    <style>
+body {
+  font-family: 'Comic Sans MS';
+}
+</style>
+    <meta charset="utf-8">
+    <title>GOBLINS are REAL</title>
+  </head>
+  <body style="background-color:lightgreen;">
+  <center><h1>GOBLINS are REAL!</h1></center>
+    
+    <p style="color:SlateBlue;">goblin evidence: first of all, have you ever seen a gbolin not be real? this is because of the reality OF goblins. for example, mark hamile once said "if goblins are not real, ther would have to be evidence of their un-reality, therfore it is only reasonable to assume the reality of goblins". - mark hamile.</p>
+    <p style="color:red;">goblin evidence 2:</p>
+    <p> check out this ON CAMERA goblin sighting:</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-h_AqyqTWAE?si=aJuu-JyXxzChBOYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <img src="https://i.ytimg.com/vi/mrKGkgizsKo/maxresdefault.jpg" height="400" width ="400">
+    
+    <p>Goblin evidence #3</p>
+    <p style="color:DarkOrange;">how does every ancient culture seem to have green little men in their mythology? simple answer: because they SAW them!</p>
+    <image src="https://t.pimg.jp/087/599/547/5/87599547.jpg" height="300" width="600"></image>
+    <p style="color:Salmon;">goblin evidence number 4: i just FEEL like goblins are real right now</p>
+    <center><p>final goblin evidence;</p></center>
+    <p> to finish off our evidence we have the experience and wisdom from poet prophet and etc, joe Briggs; </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/myFKmJ7GYfw?si=sWMku2OCQj1Qizuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <audio id="idAudio">
+        <source src="https://www.fesliyanstudios.com/soundeffects-download.php?id=3678"
+                type="audio/mp3"></audio>
+
+    <button onclick="play_Audio()" type="button"><img id="image" src="https://img.cadnav.com/allimg/141110/1-141110152516.jpg" width="800" 
+     height="400"></button>
+<p align="right"> naughty goblin example </p>
+    <p> please send any information, inquirys or sightings to:</p>
+    <a href="https://www.youtube.com/watch?v=81QmaMWywC4">butsexgoblin@aol.com</a>
+    
+     <script>
+        var GFG = document.getElementById("idAudio");
+ 
+        function play_Audio() {
+            GFG.play();
+          var img = document.getElementById("image");
+img.src="https://i.ibb.co/kHhR0Zy/goblin-ass-rip.png"
+return false;
+        }
+    </script>
